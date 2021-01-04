@@ -22,10 +22,26 @@ h1{
 }
 .test{
     text-decoration: none;
-    background-image: linear-gradient(lightsalmon,tomato);
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
     padding: 2px 5px;
     border-radius: 5px;
     color:white;
+}
+
+.next-half img{
+    width:70%;
+}
+.next-half{
+    width:40%;
+    float:left;
+    margin: 5%;
+}
+.me{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, lightsalmon,tomato );
+    border-radius: 5px;
+    color:white;
+    padding:2px 5px;
 }
 
 
