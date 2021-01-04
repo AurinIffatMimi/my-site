@@ -15,9 +15,17 @@ h1{
 .half-width{
     width: 40%;
     float: left;
+    margin:5%;
 }
 .half-width img{
-    width:60;
+    width:70%;
+}
+.test{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 2px 5px;
+    border-radius: 5px;
+    color:white;
 }
 
 
